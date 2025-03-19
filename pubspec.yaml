@@ -66,3 +66,4 @@ flutter:
   assets:
     - coming_soon.json
     - loading.png
+    - assets/loading.png

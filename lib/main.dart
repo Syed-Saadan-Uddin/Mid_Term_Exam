@@ -241,11 +241,11 @@ class ProductCard extends StatelessWidget {
                   topRight: Radius.circular(15),
                 ),
                 child: FadeInImage.assetNetwork(
-                  placeholder: 'loading.png', 
+                  placeholder: 'assets/loading.png', 
                   image: product.image,
                   height: 150,
                   width: double.infinity,
-                  fit: BoxFit.cover,
+                  fit: BoxFit.fill,
                   imageErrorBuilder: (context, error, stackTrace) {
                     return Container(
                       height: 150,
