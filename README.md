@@ -1,5 +1,5 @@
-# App Development Mid term 
-
+# E-Shop
+Online Clothing Store, made entirely in Flutter.
 
 
 ## Video Link
